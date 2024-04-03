@@ -98,7 +98,6 @@ h1 {
 ```
 views.py
 
-```
 from django.shortcuts import render
 def surfacearea(request):
     context = {}
